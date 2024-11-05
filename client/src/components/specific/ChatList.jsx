@@ -10,7 +10,10 @@ const ChatList = ({
   handleDeleteChat,
 }) => {
   return (
-    <div className="flex flex-col" style={{ width: width }}>
+    <div
+      className="flex flex-col overflow-auto h-full"
+      style={{ width: width }}
+    >
       {chats.map((chat, index) => {
         const newMessageAlert = newMessagesAlert.find(
           (item) => item.chatId === chat._id

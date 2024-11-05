@@ -17,14 +17,14 @@ const ChatItem = ({
   return (
     <Link
       to={`/chat/${_id}`}
-      className="no-underline text-white w-full h-16 overflow-hidden"
+      className="no-underline text-white"
       onContextMenu={(e) => handleDeleteChat(e, _id, groupChat)}
     >
       <div
-        className={`flex px-2 justify-around items-center relative h-full
-            ${selectedChat ? "bg-black" : "bg-white"} ${
-          selectedChat ? "text-white" : "text-black"
-        } ${selectedChat ? "" : "hover:bg-[rgba(0,0,0,0.1)]"}`}
+        className={`flex px-2 justify-around items-center relative  w-full h-16 overflow-hidden 
+          ${selectedChat ? "bg-black" : "bg-white"} 
+          ${selectedChat ? "text-white" : "text-black"} 
+          ${selectedChat ? "" : "hover:bg-[rgba(0,0,0,0.1)]"}`}
       >
         <AvatarCard avatar={avatar} />
         <div className="flex flex-col justify-center w-1/2">
