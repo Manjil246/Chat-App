@@ -11,7 +11,7 @@ const ChatList = ({
 }) => {
   return (
     <div
-      className="flex flex-col overflow-auto h-full"
+      className="flex flex-col h-[calc(100vh-4rem)] overflow-auto"
       style={{ width: width }}
     >
       {chats.map((chat, index) => {

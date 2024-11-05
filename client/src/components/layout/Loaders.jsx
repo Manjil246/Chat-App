@@ -33,3 +33,21 @@ export const BackdropLoader = () => {
     ></div>
   );
 };
+
+export const AdminLayoutLoader = () => {
+  return (
+    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 h-screen w-screen">
+      <div className="hidden sm:block col-span-1 p-1">
+        <Skeleton height={"100%"} />
+      </div>
+      <div className="col-span-2 lg:col-span-3 overflow-hidden space-y-1 p-1">
+        {Array.from({ length: 15 }).map((_, i) => (
+          <Skeleton height={"60px"} key={i} />
+        ))}
+      </div>
+      <div className="hidden sm:block col-span-1 p-1">
+        <Skeleton height={"100%"} />
+      </div>
+    </div>
+  );
+};

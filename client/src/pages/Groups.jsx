@@ -209,11 +209,9 @@ const Group = () => {
             )}
           </div>
         </div>
-        <div className="">
-          <Drawer isOpen={isMobileMenuOpen} onClose={handleMenu}>
-            <GroupList myGroups={sampleChats} groupId={groupId} />
-          </Drawer>
-        </div>
+        <Drawer isOpen={isMobileMenuOpen} onClose={handleMenu}>
+          <GroupList myGroups={sampleChats} groupId={groupId} />
+        </Drawer>
       </div>
 
       {confirmDeleteDialog && (
