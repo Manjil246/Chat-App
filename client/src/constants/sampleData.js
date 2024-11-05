@@ -55,9 +55,385 @@ export const sampleChats = [
     newMessage: true,
     index: 0,
   },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "1",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "2",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "3",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "4",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "1",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "2",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "3",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "4",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "1",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "2",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "3",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "4",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "1",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "2",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "3",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "4",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "1",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "2",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "3",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
+  {
+    avatar: [
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    ],
+    name: "Manjil",
+    _id: "4",
+    groupChat: false,
+    sameSender: true,
+    isOnline: true,
+    newMessage: true,
+    index: 0,
+  },
 ];
 
 export const sampleUsers = [
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "1",
+    name: "Manjil",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "2",
+    name: "Dip",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "3",
+    name: "Saurabh",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "4",
+    name: "Birbal",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "1",
+    name: "Manjil",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "2",
+    name: "Dip",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "3",
+    name: "Saurabh",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "4",
+    name: "Birbal",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "1",
+    name: "Manjil",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "2",
+    name: "Dip",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "3",
+    name: "Saurabh",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "4",
+    name: "Birbal",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "1",
+    name: "Manjil",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "2",
+    name: "Dip",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "3",
+    name: "Saurabh",
+  },
+  {
+    avatar:
+      "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",
+    _id: "4",
+    name: "Birbal",
+  },
   {
     avatar:
       "https://media.istockphoto.com/id/2060736814/photo/woman-at-home-checking-her-mail.jpg?s=2048x2048&w=is&k=20&c=6LxaDCthmTlq9EefjhVfn09TW6c3hPlWwvVfD6Ex6rQ=",

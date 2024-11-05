@@ -28,6 +28,7 @@ const MessageComponent = ({ message, user }) => {
                 target="_blank"
                 rel="noopener noreferrer"
                 download={true}
+                key={index}
                 className="text-black"
               >
                 <RenderContent url={url} file={file} />

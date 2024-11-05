@@ -21,7 +21,7 @@ const Chat = () => {
     <>
       {/* Messages */}
       <div
-        className="flex flex-col h-[90%] overflow-y-auto p-4 overflow-x-hidden"
+        className="flex flex-col h-[calc(90vh-4rem)] overflow-y-auto p-4 overflow-x-hidden"
         style={{ backgroundColor: gray }}
         ref={containerRef}
       >
@@ -31,7 +31,7 @@ const Chat = () => {
       </div>
 
       {/* Input */}
-      <form className="h-[10%]">
+      <form className="h-[10vh]">
         <div className="flex justify-between h-full items-center relative">
           <button className="p-2 absolute left-2 rotate-[30deg]">
             <AttachFileIcon />

@@ -23,7 +23,7 @@ const Search = ({ isSearchOpen, setIsSearchOpen }) => {
         }}
         open={isSearchOpen}
       >
-        <div className="flex flex-col w-96 p-2">
+        <div className="flex flex-col w-96 h-96 p-2">
           <div className="text-2xl text-center">Find People</div>
           <div className="relative w-full">
             <input
@@ -37,10 +37,10 @@ const Search = ({ isSearchOpen, setIsSearchOpen }) => {
               <SearchIcon />
             </div>
           </div>
-          <div className="flex flex-col space-y-2">
+          <div className="flex flex-col space-y-2 overflow-auto">
             {users.map((user, index) => (
               <UserItem
-                key={user._id}
+                key={index}
                 user={user}
                 handler={addFriendHandler}
                 handlerIsLoading={isLoadingFriendRequest}

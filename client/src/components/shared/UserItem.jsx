@@ -1,11 +1,17 @@
 import { Add as AddIcon, Remove as RemoveIcon } from "@mui/icons-material";
 import React, { memo } from "react";
 
-const UserItem = ({ user, handler, handlerIsLoading, isAdded }) => {
+const UserItem = ({
+  user,
+  handler,
+  handlerIsLoading,
+  isAdded,
+  styling = {},
+}) => {
   const { name, _id, avatar } = user;
 
   return (
-    <div className="flex items-center space-x-4">
+    <div className={`flex items-center space-x-4`} style={styling}>
       <img src={avatar} className="w-8 h-8 rounded-full" />
       <span className="w-full">{name}</span>
       <button

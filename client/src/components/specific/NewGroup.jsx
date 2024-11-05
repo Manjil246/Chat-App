@@ -33,7 +33,7 @@ const NewGroup = () => {
         />
 
         <div>Members</div>
-        <div className="flex flex-col space-y-2">
+        <div className="flex flex-col space-y-2 overflow-auto">
           {users.map((user, index) => (
             <UserItem
               key={index}
